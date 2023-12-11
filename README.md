@@ -1,4 +1,4 @@
-# Web Development Project 5 - *NWeather Dashboard*
+# Web Development Project 5 - *Weather Dashboard*
 
 Submitted by: **Xinrui Hou**
 
